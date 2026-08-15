@@ -4,7 +4,7 @@
     "description":  "A lightweight, type-safe Result pattern implementation for robust error handling.",
     "repository":  {
                        "type":  "git",
-                       "url":  "git@github.com:collidor/result.git"
+                       "url":  "https://github.com/collidor/result.git"
                    },
     "publishConfig":  {
                           "access":  "public",
