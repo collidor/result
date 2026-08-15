@@ -1,3 +1,16 @@
+# 1.0.0 (2026-08-15)
+
+
+### Bug Fixes
+
+* **ci:** configure npmPublish false and provenance publishCmd for tokenless npm OIDC, fix repo URL format ([7bc5bd6](https://github.com/collidor/result/commit/7bc5bd658db6c3238426907d3547cfb727981020))
+* **ci:** update release pipeline to use OIDC trusted publishing without tokens ([f151830](https://github.com/collidor/result/commit/f151830076394abaf9453701545a8481a10fdaa9))
+
+
+### Features
+
+* add automated semantic-release pipeline for npm and jsr ([176b019](https://github.com/collidor/result/commit/176b019bf14587fb4d8d64211c0a1a38540724e1))
+
 # @collidor/command
 
 ## 0.1.2
