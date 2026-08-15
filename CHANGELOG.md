@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/collidor/result/compare/v1.0.1...v1.0.2) (2026-08-15)
+
+
+### Bug Fixes
+
+* **ci:** rename workflow file to publish.yml to match npm trusted publisher configuration ([56d91d5](https://github.com/collidor/result/commit/56d91d594acdb3009cbfecbfaabf7985006833d3))
+
 ## [1.0.1](https://github.com/collidor/result/compare/v1.0.0...v1.0.1) (2026-08-15)
 
 
