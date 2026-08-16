@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/collidor/result/compare/v1.0.4...v1.0.5) (2026-08-16)
+
+
+### Bug Fixes
+
+* trigger patch release ([e3e2cd2](https://github.com/collidor/result/commit/e3e2cd24858f4741479f69589a9cb79c6e23a5b4))
+
 ## [1.0.4](https://github.com/collidor/result/compare/v1.0.3...v1.0.4) (2026-08-16)
 
 
